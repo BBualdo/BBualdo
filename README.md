@@ -19,3 +19,7 @@
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/frameworks/angular.svg" alt="Angular" height="50" margin:4px">
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/programming%20languages/typescript.svg" alt="TypeScript" height="50" margin:4px">
 </p>
+
+## 🗺 My Progress:
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64c6fbd68bda28d991481ceb?variant=dark)](https://roadmap.sh)
