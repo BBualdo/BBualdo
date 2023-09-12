@@ -32,5 +32,3 @@
 </p>
 
 ## 🗺 My Progress:
-
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64c6fbd68bda28d991481ceb?variant=dark)](https://roadmap.sh)
