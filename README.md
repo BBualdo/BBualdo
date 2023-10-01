@@ -15,6 +15,7 @@
 <p> 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React" height="50" margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="NodeJS" height="50" margin:4px">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StyledComponents.svg" alt="Styled Components" height="50" margin:4px">
 </p>
 
 ## 🔜 Wanna Learn:
