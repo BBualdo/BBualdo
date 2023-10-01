@@ -3,6 +3,7 @@
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" height="50" margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS" height="50" margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="Tailwind" height="50" margin:4px">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StyledComponents.svg" alt="Styled Components" height="50" margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="Javascript" height="50" margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="VS Code" height="50" margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" height="50" margin:4px">
@@ -15,7 +16,6 @@
 <p> 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React" height="50" margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="NodeJS" height="50" margin:4px">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StyledComponents.svg" alt="Styled Components" height="50" margin:4px">
 </p>
 
 ## 🔜 Wanna Learn:
