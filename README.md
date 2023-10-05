@@ -35,4 +35,4 @@
 
 ## 🗺 My Progress:
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64c6fbd68bda28d991481ceb?variant=dark&roadmaps=frontend%2Cjavascript%2Creact)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64c6fbd68bda28d991481ceb?variant=dark&roadmaps=javascript%2Creact%2Cfull-stack%2Cfrontend)](https://roadmap.sh)
