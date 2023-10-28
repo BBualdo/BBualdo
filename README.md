@@ -21,6 +21,7 @@
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" alt="Redux" height="50" margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="TypeScript" height="50" margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="NextJS" height="50" margin:4px">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" alt="Firebase" height="50" margin:4px">
 </p>
 
 ## 🔜 Wanna Learn:
