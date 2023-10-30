@@ -30,6 +30,8 @@
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" alt="Angular" height="50" margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jest.svg" alt="Jest" height="50" margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" alt="Gitlab" height="50" margin:4px">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++" height="50" margin:4px">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/UnrealEngine.svg" alt="Unreal" height="50" margin:4px">
 </p>
 
 ## 🗺 My Progress:
