@@ -24,6 +24,7 @@
 
 ## 🔜 Wanna Learn:
 <p>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Apollo.svg" alt="Apollo" height="50" margin:4px"> 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="NodeJS" height="50" margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="CPP" height="50" margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/UnrealEngine.svg" alt="UnrealEngine" height="50" margin:4px">
