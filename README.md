@@ -6,6 +6,7 @@
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React" height="50" margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" alt="Redux" height="50" margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="Tailwind" height="50" margin:4px">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" alt="MaterialUI" height="50" margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" alt="Sass" height="50" margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="VS Code" height="50" margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" height="50" margin:4px">
@@ -20,7 +21,6 @@
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="TypeScript" height="50" margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="NextJS" height="50" margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Appwrite.svg" alt="Appwrite" height="50" margin:4px">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" alt="MaterialUI" height="50" margin:4px">
 </p>
 
 ## 🔜 Wanna Learn:
