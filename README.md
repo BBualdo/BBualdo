@@ -20,6 +20,7 @@
 <p> 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="TypeScript" height="50" margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="CPP" height="50" margin:4px">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg" alt="Unity" height="50" margin:4px">
 </p>
 
 ## 🔜 Wanna Learn:
