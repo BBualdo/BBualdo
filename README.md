@@ -31,6 +31,7 @@
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg" alt="GraphQL" height="50" margin:4px ">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Apollo.svg" alt="Apollo" height="50" margin:4px"> 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="NodeJS" height="50" margin:4px">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Astro.svg" alt="Astro" height="50" margin:4px">
 </p>
 
 ## 🗺 My Progress:
