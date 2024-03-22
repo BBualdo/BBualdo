@@ -27,6 +27,7 @@
 ## 🎓 Currently Learning:
 <p>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" alt="DotNET" height="50" margin:4px">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" height="50" margin:4px">
 </p>
 
 ## 🔜 Wanna Learn:
