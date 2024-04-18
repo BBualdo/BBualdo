@@ -22,13 +22,15 @@
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="Github" height="50" margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" alt="Vite" height="50" margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" alt="Figma" height="50" margin:4px">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" alt="Bash" height="50" margin:4px">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" alt="SQLite" height="50" margin:4px">
 </p>
 
 ## 🎓 Currently Learning:
 <p>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" alt="DotNET" height="50" margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" height="50" margin:4px">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" alt="Bash" height="50" margin:4px">
+
 </p>
 
 ## 🔜 Wanna Learn:
