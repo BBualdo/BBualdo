@@ -32,6 +32,8 @@
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ReactiveX-Dark.svg" alt="RxJS" height="50" margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" alt="DotNET" height="50" margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" height="50" margin:4px">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rider-Dark.svg" alt="Rider" height="50" margin:4px">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/WebStorm-Dark.svg" alt="WebStorm" height="50" margin:4px">
 </p>
 
 ## 🔜 Wanna Learn:
