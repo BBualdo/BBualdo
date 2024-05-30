@@ -28,6 +28,7 @@
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" alt="Figma" height="50" margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" alt="Bash" height="50" margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" alt="SQLite" height="50" margin:4px">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="Postman" height="50" margin:4px">
 </p>
 
 ## 🎓 Currently Learning:
