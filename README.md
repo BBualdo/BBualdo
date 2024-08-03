@@ -35,7 +35,6 @@
 
 ## 🎓 Currently Learning:
 <p>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="Bootstrap" height="50" margin:4px">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg" alt="Azure" height="50" margin:4px">
 </p>
 
