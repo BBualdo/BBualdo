@@ -6,7 +6,7 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="NextJS" height="50" margin:4px">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" alt="Angular" height="50" margin:4px">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="Tailwind" height="50" margin:4px">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="CS" height="50" margin:4px">
+  <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="CS" height="50" margin:4px">
 </p>
 
 ## 🧠 I also know:
@@ -31,6 +31,7 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" alt="SQLite" height="50" margin:4px">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="Postman" height="50" margin:4px">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" height="50" margin:4px">
+  <img src="https://cdn.worldvectorlogo.com/logos/blazor.svg" alt="Blazor" height="50" margin:4px">
 </p>
 
 ## 🎓 Currently Learning:
