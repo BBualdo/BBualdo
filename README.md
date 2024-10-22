@@ -38,6 +38,7 @@
 <p>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg" alt="Azure" height="50" margin:4px">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="Docker" height="50" margin:4px">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg" alt="Unity" height="50" margin:4px">
 </p>
 
 ## 🔜 Wanna Learn:
@@ -46,5 +47,4 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg" alt="GraphQL" height="50" margin:4px ">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Apollo.svg" alt="Apollo" height="50" margin:4px"> 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="NodeJS" height="50" margin:4px">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg" alt="Unity" height="50" margin:4px">
 </p>
