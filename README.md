@@ -1,3 +1,7 @@
+# Hello, I'm Sebastian. Welcome to my den!
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/BBualdo.png" alt="Your Image Badge" />
+
 ## 🛠️ Tech-Stack
 <p>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" alt="DotNET" height="50" margin:4px">
