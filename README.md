@@ -37,7 +37,9 @@
 
 ## 🎓 Currently Learning:
 <p>
-  Networks & Cybersecurity
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Powershell-Dark.svg" alt="PowerShell" height="50" margin:4px">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg" alt="Windows" height="50" margin:4px">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" alt="Linux" height="50" margin:4px">
 </p>
 
 ## 🔜 Wanna Learn:
