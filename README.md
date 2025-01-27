@@ -1,7 +1,5 @@
 # Hello, I'm Sebastian. Welcome to my den!
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/BBualdo.png" alt="Your Image Badge" />
-
 ## 🛠️ Tech-Stack
 <p>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" alt="DotNET" height="50" margin:4px">
@@ -31,7 +29,6 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="Github" height="50" margin:4px">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" alt="Vite" height="50" margin:4px">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" alt="Figma" height="50" margin:4px">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" alt="Bash" height="50" margin:4px">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" alt="SQLite" height="50" margin:4px">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="Postman" height="50" margin:4px">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" height="50" margin:4px">
@@ -41,8 +38,10 @@
 
 ## 🎓 Currently Learning:
 <p>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" height="50" margin:4px">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Powershell-Dark.svg" alt="PowerShell" height="50" margin:4px">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg" alt="Windows" height="50" margin:4px">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" alt="Bash" height="50" margin:4px">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" alt="Linux" height="50" margin:4px">
 </p>
 
