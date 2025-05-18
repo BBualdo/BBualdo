@@ -35,12 +35,12 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" height="50" margin:4px">
   <img src="https://cdn.worldvectorlogo.com/logos/blazor.svg" alt="Blazor" height="50" margin:4px">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg" alt="Azure" height="50" margin:4px">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg" alt="Unity" height="50" margin:4px">
 </p>
 
 ## 🎓 Currently Learning:
 <p>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="Docker" height="50" margin:4px">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" height="50" margin:4px">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Powershell-Dark.svg" alt="PowerShell" height="50" margin:4px">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg" alt="Windows" height="50" margin:4px">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" alt="Bash" height="50" margin:4px">
@@ -49,7 +49,7 @@
 
 ## 🔜 Wanna Learn:
 <p>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg" alt="Unity" height="50" margin:4px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" height="50" margin:4px">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg" alt="Kubernetes" height="50" margin:4px">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg" alt="GraphQL" height="50" margin:4px ">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Apollo.svg" alt="Apollo" height="50" margin:4px"> 
